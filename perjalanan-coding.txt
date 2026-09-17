@@ -2,3 +2,4 @@ PERJALANAN-CODING
 - Konsisten mempelajari pemrograman setiap hari 1 materi SAMPAI PAHAM
 - Membuat tampilan website dengan HTML CSS JS murni
 - Membuat dokumentasi perjalanan coding dari setiap bahasa pemrograman
+- Membuat tampilan website company profile
