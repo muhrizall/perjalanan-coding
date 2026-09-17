@@ -1,0 +1,11 @@
+RREMINDER TERMINOLOGY GITHUB
+REPO 	:	Folder Project Kita - ✅
+COMMIT 	:	Rekaman Snapshot dari repo kita
+HASH 	:	Penanda unik pada sebuah commit
+CHECKOUT 	:	Berpindah ke sebuah commit
+BRANCH 	:	Cabang bebas dari sebuah commit
+MERGE 	:	Menggabungkan Branch
+REMOTE :	:	Sumber yang memiliki repo
+CLONE 	:	Mengambil data dari remote
+PUSH 	:	Mengirimkan commit ke repo
+PULL	:	Mengambil commit dari repo
