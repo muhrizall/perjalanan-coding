@@ -3,3 +3,8 @@ PERJALANAN-CODING
 - Membuat tampilan website dengan HTML CSS JS murni
 - Membuat dokumentasi perjalanan coding dari setiap bahasa pemrograman
 - Membuat tampilan website company profile
+
+Konsisten Mempelajari Pemrogarman
+HTML : 
+CSS :
+JAVASCRIPT : 
